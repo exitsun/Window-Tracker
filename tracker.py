@@ -20,11 +20,4 @@ while True:
     time.sleep(1)
 
 
-# I want my program to track time spent on vscode, work, browsing solutions. 
-# chatgpt disallowed
-# holy shit I ran out of consequences here. 
-
-# Ok, so just track the time spent on windowses. 
-# runs at system start and counts until the day ends
-# statistical data. 
 
