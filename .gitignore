@@ -2,6 +2,7 @@
 __pycache__/
 *.py[codz]
 *$py.class
+.window_time_stats.json
 
 # C extensions
 *.so
